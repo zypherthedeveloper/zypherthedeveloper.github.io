@@ -20,8 +20,8 @@ html, body {
     background-color: rgb(28, 46, 46);
     border: rgb(0, 255, 179) 10px solid;
     float: left;
-    width: 100px;
-    height: 400px;
+    width: 200px;
+    height: 500px;
 }
 
 .secttitle1 {
@@ -45,6 +45,7 @@ html, body {
     float: right;
     width: 15%;
     height: 200px;
+    color: rgb(0, 255, 179);
 }
 
 .pagelist {
