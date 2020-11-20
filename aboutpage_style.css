@@ -21,7 +21,7 @@ html, body {
     border: rgb(0, 255, 179) 10px solid;
     float: left;
     width: 500px;
-    height: 600px;
+    height: 300px;
 }
 
 .secttitle1 {
@@ -35,7 +35,8 @@ html, body {
     padding-left: 4%;
     font-size: 20px;
     font-family: lucida console;
-    color: rgb(0, 255, 179)
+    color: rgb(0, 255, 179);
+    height: 100px;
 }
 
 .nav {
