@@ -6,22 +6,23 @@ html, body {
 }
 
 .header {     
-  background-color: rgb(28, 46, 46);
-  border: rgb(0, 255, 179) 10px solid;
-  margin-bottom: 2%;
-  height: 380px;    
-  text-align: center;
-  font-size: 100px;
-  font-family: lucida console;
-  color: rgb(0, 255, 179);    
+    background-color: rgb(28, 46, 46);
+    border: rgb(0, 255, 179) 10px solid;
+    margin-bottom: 2%;
+    height: 380px;    
+    text-align: center;
+    font-size: 100px;
+    font-family: lucida console;
+    color: rgb(0, 255, 179);    
 }
 
 .section1 {
     background-color: rgb(28, 46, 46);
     border: rgb(0, 255, 179) 10px solid;
     float: left;
-    width: 1290px;
+    width: 1300px;
     height: 350px;
+    margin-top: 2%;
 }
 
 .secttitle1 {
