@@ -52,17 +52,18 @@ html, body {
     padding-top: 0.9%;
     font-size: 50px;
     font-family: lucida console;
-    color: rgb(0, 255, 179);
 }
 
 .homelink {
     color: rgb(0, 110, 75);
     text-decoration: none;
+    font-family: lucida console;
 }
 
 .aboutlink {
     color: rgb(0, 255, 179);
     text-decoration: none;
+    font-family: lucida console;
 }
 canvas {
     display: block;
