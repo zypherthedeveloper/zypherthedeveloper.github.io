@@ -20,7 +20,7 @@ html, body {
     background-color: rgb(28, 46, 46);
     border: rgb(0, 255, 179) 10px solid;
     float: left;
-    width: 200px;
+    width: 300px;
     height: 500px;
 }
 
@@ -53,11 +53,6 @@ html, body {
     padding-top: 0.9%;
     font-size: 50px;
     color: rgb(0, 255, 179);
-    font-family: lucida console;
-}
-
-.aboutlink {
-    text-decoration: none;
     font-family: lucida console;
 }
 
