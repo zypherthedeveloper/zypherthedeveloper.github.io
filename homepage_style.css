@@ -52,16 +52,19 @@ html, body {
     padding-top: 0.9%;
     font-size: 50px;
     font-family: lucida console;
+    color: rgb(0, 255, 179)
 }
 
 .homelink {
     text-decoration: none;
     font-family: lucida console;
+    color: rgb(0, 255, 179)
 }
 
 .aboutlink {
     text-decoration: none;
     font-family: lucida console;
+    color: rgb(0, 255, 179)
 }
 
 canvas {
@@ -73,4 +76,5 @@ canvas {
 .snakegame {
     padding: 1%;
     font-family: lucida console;
+    color: rgb(0, 255, 179)
 }
