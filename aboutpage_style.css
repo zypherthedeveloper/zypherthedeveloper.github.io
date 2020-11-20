@@ -57,13 +57,11 @@ html, body {
 }
 
 .aboutlink {
-    color: rgb(0, 110, 75);
     text-decoration: none;
     font-family: lucida console;
 }
 
 .homelink {
-    color: rgb(0, 255, 179);
     text-decoration: none;
     font-family: lucida console;
 }
