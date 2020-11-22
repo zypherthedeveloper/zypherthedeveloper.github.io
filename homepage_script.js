@@ -112,8 +112,8 @@ function killCopy(e){
     function main() {
     
     canvas = document.createElement("canvas");
-    canvas.width = COLS*5;
-    canvas.height = ROWS*5;
+    canvas.width = COLS*10;
+    canvas.height = ROWS*10;
     ctx = canvas.getContext("2d");
     
     document.body.appendChild(canvas);
