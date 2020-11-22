@@ -11,8 +11,8 @@ function killCopy(e){
     }
 
     var
-    COLS = 20,
-    ROWS = 20,
+    COLS = 40,
+    ROWS = 40,
     EMPTY = 0,
     SNAKE = 1,
     FRUIT = 2,
