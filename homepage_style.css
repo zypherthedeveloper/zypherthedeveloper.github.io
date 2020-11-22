@@ -59,6 +59,7 @@ canvas {
     display: block;
     border: 10px solid  rgb(0, 255, 179);
     margin-left: 47.5%;
+    margin-bottom: 1%;
 }
 
 .snakegame {
