@@ -22,7 +22,8 @@ html, body {
   text-align: center;
   font-size: 100px;
   font-family: lucida console;
-  color: rgb(0, 255, 179);    
+  color: rgb(0, 255, 179); 
+  animation: intro 2s;   
 }
 
 .section1 {
@@ -31,6 +32,7 @@ html, body {
     float: left;
     width: 29%;
     height: 320px;
+    animation: intro 2s;
 }
 
 .secttitle1 {
@@ -54,6 +56,7 @@ html, body {
     float: right;
     width: 15%;
     height: 191px;
+    animation: intro 2s;
 }
 
 .pagelist {
