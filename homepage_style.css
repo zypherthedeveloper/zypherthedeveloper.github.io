@@ -1,8 +1,17 @@
+@keyframes intro {
+    0% {background-color: white}
+    25% {background-color:  rgb(139, 153, 153)}
+    50% {background-color:  rgb(90, 105, 105);}
+    75% {background-color: rgb(61, 95, 95)}
+    100% {background-color: rgb(28, 46, 46)}
+}
+
 html, body {
     background-color: rgb(28, 46, 46);
     margin: 1%;
     width: 98%;
     height: 390px;
+    animation: intro 2s;
 }
 
 .header {     
