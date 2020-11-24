@@ -1,0 +1,14 @@
+html, body {
+    background-color: rgb(28, 46, 46);
+}
+
+canvas {
+    display: block;
+    border: 10px solid  rgb(0, 255, 179);
+    margin-left: 440px
+}
+
+.snakegame {
+    padding: 1%;
+    font-family: lucida console;
+}

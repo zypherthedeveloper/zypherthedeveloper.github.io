@@ -1,17 +1,8 @@
-@keyframes intro {
-    0% {background-color: white}
-    25% {background-color:  rgb(139, 153, 153)}
-    50% {background-color:  rgb(90, 105, 105);}
-    75% {background-color: rgb(61, 95, 95)}
-    100% {background-color: rgb(28, 46, 46)}
-}
-
 html, body {
     background-color: rgb(28, 46, 46);
     margin: 1%;
     width: 98%;
     height: 390px;
-    animation: intro 2s;
 }
 
 .header {     
@@ -22,8 +13,7 @@ html, body {
   text-align: center;
   font-size: 100px;
   font-family: lucida console;
-  color: rgb(0, 255, 179); 
-  animation: intro 2s;   
+  color: rgb(0, 255, 179);  
 }
 
 .section1 {
@@ -32,7 +22,6 @@ html, body {
     float: left;
     width: 29%;
     height: 320px;
-    animation: intro 2s;
 }
 
 .secttitle1 {
@@ -56,7 +45,6 @@ html, body {
     float: right;
     width: 15%;
     height: 191px;
-    animation: intro 2s;
 }
 
 .pagelist {
@@ -65,16 +53,4 @@ html, body {
     font-size: 50px;
     font-family: lucida console;
     color: rgb(0, 255, 179)
-}
-
-canvas {
-    display: block;
-    border: 10px solid  rgb(0, 255, 179);
-    margin-left: 47.5%;
-    margin-bottom: 2%;
-}
-
-.snakegame {
-    padding: 1%;
-    font-family: lucida console;
 }
