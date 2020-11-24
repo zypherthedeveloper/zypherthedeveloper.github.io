@@ -1,0 +1,70 @@
+html, body {
+    background-color: rgb(28, 46, 46);
+
+    margin: 1%;
+
+    width: 98%;
+    height: 390px;
+}
+
+.header {     
+    background-color: rgb(28, 46, 46);
+    border: rgb(0, 255, 179) 10px solid;
+    
+    font-family: lucida console;
+    color: rgb(0, 255, 179);
+    
+    margin-bottom: 2%;
+    height: 380px;    
+    text-align: center;
+
+    font-size: 100px; 
+}
+
+.nav {
+    background-color: rgb(28, 46, 46);
+    border: rgb(0, 255, 179) 10px solid;
+
+    padding-bottom: 10%;
+    float: right;
+
+    width: 15%;
+    height: 191px;
+}
+
+.pagelist {
+    font-family: lucida console;
+    color: rgb(0, 255, 179);
+
+    padding-left: 19%;
+    padding-top: 0.9%;
+
+    font-size: 50px;
+}
+
+.snake {
+    background-color: rgb(28, 46, 46);
+    border: rgb(0, 255, 179) 10px solid;
+
+    float: left;
+
+    width: 29%;
+    height: 320px;
+}
+
+.snakegametitle {
+    font-family: lucida console;
+    color: rgb(0, 255, 179);
+
+    padding-left: 4%;
+    font-size: 50px;
+}
+
+.snakegamedesc {
+    font-family: lucida console;
+    color: rgb(0, 255, 179);
+
+    padding-left: 4%;
+    font-size: 20px;
+}
+
