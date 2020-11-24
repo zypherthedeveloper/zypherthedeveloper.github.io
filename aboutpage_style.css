@@ -1,6 +1,8 @@
 html, body {
     background-color: rgb(28, 46, 46);
+
     margin: 1%;
+
     width: 98%;
     height: 390px;
 }
@@ -8,54 +10,68 @@ html, body {
 .header {     
     background-color: rgb(28, 46, 46);
     border: rgb(0, 255, 179) 10px solid;
-    margin-bottom: 2%;
-    height: 380px;    
-    text-align: center;
-    font-size: 100px;
+
     font-family: lucida console;
-    color: rgb(0, 255, 179);   
+    color: rgb(0, 255, 179);  
+
+    margin-bottom: 2%;    
+    text-align: center;
+
+    height: 380px;
+    font-size: 100px; 
 }
 
 .section1 {
     background-color: rgb(28, 46, 46);
     border: rgb(0, 255, 179) 10px solid;
+
     float: left;
+    margin-top: 2%;
+
     width: 1000px;
     height: 350px;
-    margin-top: 2%;
 }
 
 .secttitle1 {
-    padding-left: 4%;
-    font-size: 50px;
     font-family: lucida console;
     color: rgb(0, 255, 179);
+
+    padding-left: 4%;
+
+    font-size: 50px;   
 }
 
 .sectcontent1 {
-    padding-left: 4%;
-    font-size: 20px;
     font-family: lucida console;
     color: rgb(0, 255, 179);
-    height: 100px;
+
+    padding-left: 4%;
     padding-bottom: 20%;
+
+    font-size: 20px; 
+    height: 100px;
 }
 
 .nav {
     background-color: rgb(28, 46, 46);
     border: rgb(0, 255, 179) 10px solid;
+
+    color: rgb(0, 255, 179);
+    
     padding-bottom: 10%;
     margin-top: 2%;
     float: right;
+
     width: 15%;
     height: 225.5px;
-    color: rgb(0, 255, 179);
 }
 
 .pagelist {
-    padding-left: 9.6%;
-    padding-top: 0.9%;
-    font-size: 50px;
     color: rgb(0, 255, 179);
     font-family: lucida console;
+
+    padding-left: 9.6%;
+    padding-top: 0.9%;
+    
+    font-size: 50px;
 }
