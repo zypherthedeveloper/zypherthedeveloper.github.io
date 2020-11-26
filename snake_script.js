@@ -11,8 +11,8 @@ function killCopy(e){
     }
     
     var
-    COLS = 50,
-    ROWS = 50,
+    COLS = 20,
+    ROWS = 20,
     EMPTY = 0,
     SNAKE = 1,
     FRUIT = 2,
@@ -110,8 +110,8 @@ function killCopy(e){
     function main() {
     
     canvas = document.createElement("canvas");
-    canvas.width = COLS*10;
-    canvas.height = ROWS*10;
+    canvas.width = COLS*20;
+    canvas.height = ROWS*20;
     ctx = canvas.getContext("2d");
     
     document.body.appendChild(canvas);
